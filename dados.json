@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Coca-Cola 2L",
+    "promotion": 150,
+    "discount": 15,
+    "start_date": {
+      "s_day": "20",
+      "s_month": "05",
+      "s_year": "2018"
+    },
+    "end_date": {
+      "e_day": "20",
+      "e_month": "06",
+      "e_year": "2018"
+    }
+  },
+  {
+    "description": "Doly 2L",
+    "promotion": 30,
+    "discount": 15,
+    "start_date": {
+      "s_day": "20",
+      "s_month": "05",
+      "s_year": "2018"
+    },
+    "end_date": {
+      "e_day": "20",
+      "e_month": "06",
+      "e_year": "2018"
+    }
+  }
+]
